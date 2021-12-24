@@ -47,7 +47,7 @@ Tudo isso para cada usuário em específico (o `username` será passado pelo hea
 
 Agora você pode acessar [`localhost:3333`](http://localhost:3333) do seu navegador.
 
-  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ignite%20-%20Nodejs%20-%20Challenge%2002&uri=)
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ignite%20-%20Nodejs%20-%20Challenge%2002&uri=https://github.com/IamThiago-IT/ConceitosNode/blob/main/.github/Ignite-NodeJS-Challenge02)
 
 ## 📄 Licença
 
